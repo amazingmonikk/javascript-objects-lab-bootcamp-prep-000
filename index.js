@@ -32,4 +32,6 @@ function deleteFromObjectByKey(object, key) {
 }
 
 
-function 
+function destructivelyDeleteFromObjectByKey(object, key) {
+  
+}
